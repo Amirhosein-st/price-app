@@ -1,0 +1,31 @@
+.FristPage-title {
+  text-align: right;
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 20px;
+  direction: rtl;
+}
+
+.FristPage-item,
+.FristPage-cryptoItem {
+  direction: rtl;
+  background-color: #333;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.FristPage-name,
+.FristPage-cryptoName {
+  color: #fff;
+  font-size: 18px;
+}
+
+.FristPage-price,
+.FristPage-cryptoPrice {
+  color: #fff;
+  font-size: 16px;
+}

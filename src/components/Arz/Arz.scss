@@ -1,0 +1,51 @@
+.arz-title {
+  text-align: right;
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 20px;
+  direction: rtl;
+}
+
+.arz-scrollView {
+  padding-bottom: 60px;
+}
+
+.arz-item {
+  direction: rtl;
+  background-color: #333;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arz-name {
+  color: #fff;
+  font-size: 18px;
+}
+
+.arz-price {
+  color: #fff;
+  font-size: 16px;
+}
+
+.last-updated {
+  position: absolute;
+  bottom: 2%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  display: flex;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #222;
+  border-radius: 8px;
+}
+
+.last-updated-text {
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  white-space: nowrap;
+}
