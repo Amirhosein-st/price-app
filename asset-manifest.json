@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/price-app/static/css/main.812d1310.css",
+    "main.js": "/price-app/static/js/main.8b3c7885.js",
+    "service-worker.js": "/price-app/service-worker.js",
+    "index.html": "/price-app/index.html",
+    "main.812d1310.css.map": "/price-app/static/css/main.812d1310.css.map",
+    "main.8b3c7885.js.map": "/price-app/static/js/main.8b3c7885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.812d1310.css",
+    "static/js/main.8b3c7885.js"
+  ]
+}
